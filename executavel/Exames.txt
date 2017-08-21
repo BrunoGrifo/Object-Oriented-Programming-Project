@@ -1,0 +1,31 @@
+Exame:
+Disciplina:disciplina um |Hora de inicio:Tue Oct 20 08:00:00 BST 2015 |Hora de fim:Tue Oct 20 10:00:00 BST 2015 |Duracao:120 |Sala:Nome sala:sala 1 |Lotacao maximo:20 |Docente Responsavel:docente um-Normal
+Outros Docentes:
+Nome:docente dois Numero mecanografico:45632
+Nome:docente tres Numero mecanografico:12385
+Nome:docente quatro Numero mecanografico:75321
+Funcionarios de Apoio:
+Nome:ajudante um Numero mecanografico:45219
+Alunos:
+Nome:aluno dois Numero Aluno:147852369 Nota: Nota nao lançada
+Nome:aluno cinco Numero Aluno:741258789 Nota: Nota nao lançada
+Nome:alunoum Numero Aluno:123456789 Nota: Nota nao lançada
+Exame:
+Disciplina:disciplina dois |Hora de inicio:Thu Oct 20 08:00:00 BST 2016 |Hora de fim:Thu Oct 20 10:00:00 BST 2016 |Duracao:120 |Sala:Nome sala:sala 2 |Lotacao maximo:10 |Docente Responsavel:docente dois-Recurso
+Outros Docentes:
+Nome:docente cinco Numero mecanografico:45218
+Funcionarios de Apoio:
+Nome:ajudante dois Numero mecanografico:45682
+Alunos:
+Nome:aluno dois Numero Aluno:147852369 Nota: Nota nao lançada
+Nome:aluno tres Numero Aluno:789456123 Nota: Nota nao lançada
+Exame:
+Disciplina:disciplina tres |Hora de inicio:Fri Oct 20 08:00:00 BST 2017 |Hora de fim:Fri Oct 20 10:00:00 BST 2017 |Duracao:120 |Sala:Nome sala:sala 3 |Lotacao maximo:1 |Docente Responsavel:docente tres-Especial
+Funcionarios de Apoio:
+Nome:ajudante um Numero mecanografico:45219
+Alunos:
+Nome:aluno tres Numero Aluno:789456123 Nota: Nota nao lançada
+Exame:
+Disciplina:disciplina cinco |Hora de inicio:Sat Oct 20 08:00:00 BST 2018 |Hora de fim:Sat Oct 20 08:50:00 BST 2018 |Duracao:50 |Sala:Nome sala:sala 3 |Lotacao maximo:1 |Docente Responsavel:docente cinco-Recurso
+Alunos:
+Nome:aluno quatro Numero Aluno:456123789 Nota: Nota nao lançada
